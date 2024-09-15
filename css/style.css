@@ -59,6 +59,13 @@ div.blue {
     border: 0;
     border-right: 5px solid;
     border-top: 2px solid;
+}
+
+div.blue p {
+    color: #C4C4C4;
+}
+
+div.blue h2 {
     color: #C4C4C4;
 }
 
@@ -69,11 +76,14 @@ div.yellow {
     border: 0;
     border-bottom: 2px solid;
     border-left: 5px solid;
+}
+
+div.yellow p {
     color: #707070;
 }
 
 div.green {
-    background-color: #00EB00; 
+    background-color: #008500; 
     text-align: left; 
     margin-right: 50px; 
     border: 0;
